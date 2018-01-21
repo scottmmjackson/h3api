@@ -1,0 +1,8 @@
+[package]
+name = "h3api"
+version = "0.1.0"
+authors = ["Scott Jackson <scottmmjackson@gmail.com>"]
+build = "build.rs"
+
+[build-dependencies]
+bindgen = "0.32.1"
